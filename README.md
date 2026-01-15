@@ -25,7 +25,6 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 [![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/heTl4ZzHcKU)
 
-<img src='https://youtu.be/heTl4ZzHcKU' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## Notes
