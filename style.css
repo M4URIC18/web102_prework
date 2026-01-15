@@ -33,6 +33,11 @@ body {
     margin: 1%;
     width: 100%;
     text-align: center;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.stats-card:hover {
+    background-color: rgba(56, 189, 248, 0.15);
 }
 
 #num-contributions, #total-raised, #num-games {
@@ -75,4 +80,43 @@ button {
     padding: 1%;
     margin: 1%;
     border-radius: 7px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: rgba(56, 189, 248, 0.15);
+    color: #e5e7eb;
+}
+
+/* Basic reset */
+
+
+/* Navbar container */
+.navbar {
+  position: sticky;
+  top: 0;
+  background-color: #0f172a; /* dark blue */
+  padding: 1rem 2rem;
+  text-align: center;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+  z-index: 100;
+  border-radius: 7px;
+}
+
+/* Navigation link */
+.nav-link {
+  text-decoration: none;
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #38bdf8; /* light blue */
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+}
+
+
+/* Hover effect */
+.nav-link:hover {
+  background-color: rgba(56, 189, 248, 0.15);
+  color: #e5e7eb;
 }
