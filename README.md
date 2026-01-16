@@ -1,4 +1,4 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - SeaFund
 
 Submitted by: MAURICIO EMBUS PEREZ
 
